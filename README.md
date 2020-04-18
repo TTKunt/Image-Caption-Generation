@@ -1,4 +1,4 @@
-# Image-Caption-Generation
+# Image-Caption-Generation OK
 Given an image, it will return the most probable sequence of words (sentence) describing the image. 
 
 
